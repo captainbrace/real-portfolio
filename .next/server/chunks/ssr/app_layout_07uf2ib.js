@@ -1,0 +1,3 @@
+module.exports=[62925,a=>{"use strict";var b=a.i(7997);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"en",className:"scroll-smooth",children:(0,b.jsx)("body",{className:"bg-red-950 text-red-50 font-sans antialiased selection:bg-red-500 selection:text-white",children:a})})},"metadata",0,{title:"My Developer Portfolio",description:"Junior Web Developer One-Page Portfolio Website"}])},19325,a=>{a.n(a.i(62925))}];
+
+//# sourceMappingURL=app_layout_07uf2ib.js.map

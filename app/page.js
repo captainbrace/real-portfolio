@@ -40,7 +40,7 @@ export default function Home() {
           <div className="relative border-l-2 border-red-700 ml-4 md:ml-32 space-y-10">
             {/* University */}
             <div className="relative pl-8">
-              <div className="absolute -left-[9px] top-1 w-4 h-4 rounded-full bg-red-500 border-4 border-red-950"></div>
+              <div className="absolute left-[-9px] top-1 w-4 h-4 rounded-full bg-red-500 border-4 border-red-950"></div>
               <span className="text-xs font-semibold text-red-400 bg-red-950 px-2 py-0.5 rounded border border-red-800">Present</span>
               <h3 className="text-xl font-bold text-white mt-1">B.Sc. in Computer Science</h3>
               <p class="text-sm font-medium text-red-200">Academic City University</p>
@@ -49,7 +49,7 @@ export default function Home() {
 
             {/* High School */}
             <div className="relative pl-8">
-              <div className="absolute -left-[9px] top-1 w-4 h-4 rounded-full bg-red-700 border-4 border-red-950"></div>
+              <div className="absolute left-[-9px] top-1 w-4 h-4 rounded-full bg-red-700 border-4 border-red-950"></div>
               <span className="text-xs font-semibold text-red-400 bg-red-950 px-2 py-0.5 rounded border border-red-800">Graduated 2024</span>
               <h3 className="text-xl font-bold text-white mt-1">High School Diploma</h3>
               <p className="text-sm font-medium text-red-200">DPS International Ghana</p>
